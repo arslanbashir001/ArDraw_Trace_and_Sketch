@@ -10,6 +10,13 @@
 
 ---
 
+## 📥 Download the App
+
+<a href="https://drive.google.com/file/d/1xg6JmCA8u-r-v-Jai3Ncrjzlu-8J42r3/view?usp=drive_link" target="_blank">
+  <img src="https://img.shields.io/badge/Download-ArDraw-blue?style=for-the-badge&logo=android" alt="Download ArDraw" />
+</a>
+
+
 ## ✨ Features
 
 - 🖌️ **Trace images on screen** and draw accurately on paper  
