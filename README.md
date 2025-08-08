@@ -26,7 +26,6 @@
 - 📷 **Capture images** using camera and trace them  
 - 📐 **Resize, move, and rotate** images freely  
 - 🔍 **Adjust image opacity** for better tracing visibility  
-- ✅ **Supports sketching directly on device or with real paper via AR**
 
 ---
 
@@ -48,12 +47,11 @@
 - **MVVM** – Architecture pattern  
 - **XML** – UI Layouts  
 - **CameraX** – Camera integration  
-- **ARCore (optional)** – For improved experience with overlays
 
 
 ### Prerequisites
 
-- Android device (ARCore support recommended for best experience)
+- Android device
 - Android Studio (latest version)
 - Kotlin + XML knowledge
 
